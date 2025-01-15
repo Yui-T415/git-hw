@@ -1,0 +1,6 @@
+Name: Yui Taniguchi
+Age: 27
+Favorite Color: Red
+Dream Job: Frontend Developer
+Current City: Vancouver
+Favorite Food: Sushi
