@@ -9,3 +9,7 @@ Favorite Music: Charlie Puth
 Languages:
 - Japanese
 - English
+Skills:
+- JavaScript
+- HTML
+- CSS
