@@ -6,3 +6,7 @@ Current City: Vancouver
 Favorite Food: Sushi
 Favorite Movie: The Greatest Showman
 Favorite Music: Charlie Puth
+Skills:
+- JavaScript
+- HTML
+- CSS
